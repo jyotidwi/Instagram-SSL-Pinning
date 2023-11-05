@@ -68,7 +68,7 @@ Before you begin, ensure you have met the following requirements:
 
 With everything set up, you are now ready to explore. Enjoy !
 
-![Screenshot 2023-11-05 103211](https://github.com/tanu360/Instagram-SSL-Pinning/assets/33043201/b00411fa-34c6-451e-b47d-d9fb4c86f9a2)
+![Screenshot 2023-11-05 103211](https://i.imgur.com/qAnKhED.png)
 
 ## Updates 🔄
 
