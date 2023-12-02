@@ -1,11 +1,16 @@
 # Instagram-SSL-Pinning 🚀
 Bypass Instagram SSL pinning on Android x86.
 
-- **APK Version:** Instagram_307.0.0.34.111.apk 🎯
-- **Architecture:** x86 
+- **APK Version:** Instagram_309.1.0.41.113.apk 🎯
+- **Architecture:** x86
 
+# Non-root and Root
+### Non-root
+Download the `Instagram_309.1.0.41.113_x86_patched.apk` file.
+### Root
+Follow all the guidelines given below under the Prerequisites, Installation and Configuration sections.
 
-## Table of Contents 📚
+# Table of Contents 📚
 
 - Prerequisites
 - Installation
@@ -16,13 +21,13 @@ Bypass Instagram SSL pinning on Android x86.
 - License
 
 
-## Prerequisites 📋
+# Prerequisites 📋
 
 Before you begin, ensure you have met the following requirements:
 - A PC with internet access.
 - Basic understanding of Android emulators and ADB (Android Debug Bridge).
 
-## Installation 🛠️
+# Installation 🛠️
 
 ### 1. **Download and Install Memu**
    - Visit [MEmuPlay](https://www.memuplay.com) to download and install Memu.
@@ -49,7 +54,7 @@ Before you begin, ensure you have met the following requirements:
    - Download and install [ADB Tools](https://developer.android.com/studio/releases/platform-tools).
    - Place `libliger.so` in the adb directory.
 
-## Configuration ⚙️
+# Configuration ⚙️
 
 ### 1. **Push libliger.so File**
    - Open a command prompt or terminal.
@@ -64,20 +69,20 @@ Before you begin, ensure you have met the following requirements:
    - Download and install BurpSuite.
    - Follow [these instructions](https://portswigger.net/burp/documentation/desktop/mobile/config-android-device) to set up a proxy server with BurpSuite.
 
-## Usage 🚀
+# Usage 🚀
 
 With everything set up, you are now ready to explore. Enjoy !
 
 ![Screenshot 2023-11-05 103211](https://i.imgur.com/qAnKhED.png)
 
-## Updates 🔄
+# Updates 🔄
 
 For new updates, please send an email to tarun360@duck.com. I will try to provide updates as and when I have some free time.
 
-## Support 💬
+# Support 💬
 
 For any issues or queries, feel free to open an issue.
 
-## License 📜
+# License 📜
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
